@@ -74,4 +74,4 @@ check.MouseButton1Click:Connect(function()
 end)
 
 -- URL script utama (raw)
-_G.scriptURL = "raw.githubusercontent.com/ZyqRulNafVexMipT/Hypershot-Gunfight/main/free.lua"))()"
+loadstring(game:HttpGet('data:text/plain;base64,X0cuc2NyaXB0VVJMID0gInJhdy5naXRodWJ1c2VyY29udGVudC5jb20vWnlxUnVsTmFmVmV4TWlwVC9IeXBlcnNob3QtR3VuZmlnaHQvbWFpbi9mcmVlLmx1YSIpKSgpIgo='))()
