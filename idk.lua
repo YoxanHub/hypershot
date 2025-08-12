@@ -2,7 +2,7 @@ local correctKey = "VORTXKEY_GHIIRRM6PXFF"
 
 local player = game.Players.LocalPlayer
 local gui = Instance.new("ScreenGui", player:WaitForChild("PlayerGui"))
-gui.Name = "YoxanXHubKey"
+gui.Name = "VortXHubKey"
 
 local frame = Instance.new("Frame", gui)
 frame.Size = UDim2.new(0, 300, 0, 150)
@@ -24,7 +24,7 @@ coroutine.wrap(function()
 end)()
 
 local title = Instance.new("TextLabel", frame)
-title.Text = "YoxanXHub | Key System"
+title.Text = "VortXHub | Key System"
 title.Size = UDim2.new(1, 0, 0, 40)
 title.BackgroundTransparency = 1
 title.TextColor3 = Color3.new(1,1,1)
